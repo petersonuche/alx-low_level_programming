@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
+ * is writen by uche
  *
  * Return: 0
  */
