@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * jack_bauer - prints minute of the day
  */
